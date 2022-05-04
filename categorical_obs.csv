@@ -1,0 +1,23 @@
+Feature Name,Observations
+term,The highest freq recorded is  36 months
+grade,The highest freq recorded is B
+sub_grade,The highest freq recorded is B3
+emp_title,The highest freq recorded is Teacher
+emp_length,The highest freq recorded is 10+ years
+home_ownership,The highest freq recorded is MORTGAGE
+verification_status,The highest freq recorded is Verified
+issue_d,The highest freq recorded is Oct-14
+loan_status,The highest freq recorded is Current
+pymnt_plan,The highest freq recorded is n
+url,The highest freq recorded is https://www.lendingclub.com/browse/loanDetail.action?loan_id=1000007
+desc,The highest freq recorded is  
+purpose,The highest freq recorded is debt_consolidation
+title,The highest freq recorded is Debt consolidation
+zip_code,The highest freq recorded is 945xx
+addr_state,The highest freq recorded is CA
+earliest_cr_line,The highest freq recorded is Oct-00
+initial_list_status,The highest freq recorded is f
+last_pymnt_d,The highest freq recorded is Jan-16
+next_pymnt_d,The highest freq recorded is Feb-16
+last_credit_pull_d,The highest freq recorded is Jan-16
+application_type,The highest freq recorded is INDIVIDUAL
